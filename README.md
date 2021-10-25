@@ -1,2 +1,2 @@
 # REGEX-Hypernym-Relations
-read all the files in the directory, find and aggregate hypernym relations that match the Hearst patterns using regular expressions, and save them in a txt file.
+The program reads the entire text from a file and looks for adjustments according to Regax. Using database it saves all the appropriate simplifiers and prints them to a new file.
